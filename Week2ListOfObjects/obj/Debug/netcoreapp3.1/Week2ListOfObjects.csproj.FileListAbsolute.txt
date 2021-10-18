@@ -1,0 +1,14 @@
+C:\Users\CFlynn3\source\repos\Week2ListOfObjects\Week2ListOfObjects\obj\Debug\netcoreapp3.1\Week2ListOfObjects.csproj.AssemblyReference.cache
+C:\Users\CFlynn3\source\repos\Week2ListOfObjects\Week2ListOfObjects\obj\Debug\netcoreapp3.1\Week2ListOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFlynn3\source\repos\Week2ListOfObjects\Week2ListOfObjects\obj\Debug\netcoreapp3.1\Week2ListOfObjects.AssemblyInfoInputs.cache
+C:\Users\CFlynn3\source\repos\Week2ListOfObjects\Week2ListOfObjects\obj\Debug\netcoreapp3.1\Week2ListOfObjects.AssemblyInfo.cs
+C:\Users\CFlynn3\source\repos\Week2ListOfObjects\Week2ListOfObjects\obj\Debug\netcoreapp3.1\Week2ListOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\CFlynn3\source\repos\Week2ListOfObjects\Week2ListOfObjects\bin\Debug\netcoreapp3.1\Week2ListOfObjects.exe
+C:\Users\CFlynn3\source\repos\Week2ListOfObjects\Week2ListOfObjects\bin\Debug\netcoreapp3.1\Week2ListOfObjects.deps.json
+C:\Users\CFlynn3\source\repos\Week2ListOfObjects\Week2ListOfObjects\bin\Debug\netcoreapp3.1\Week2ListOfObjects.runtimeconfig.json
+C:\Users\CFlynn3\source\repos\Week2ListOfObjects\Week2ListOfObjects\bin\Debug\netcoreapp3.1\Week2ListOfObjects.runtimeconfig.dev.json
+C:\Users\CFlynn3\source\repos\Week2ListOfObjects\Week2ListOfObjects\bin\Debug\netcoreapp3.1\Week2ListOfObjects.dll
+C:\Users\CFlynn3\source\repos\Week2ListOfObjects\Week2ListOfObjects\bin\Debug\netcoreapp3.1\Week2ListOfObjects.pdb
+C:\Users\CFlynn3\source\repos\Week2ListOfObjects\Week2ListOfObjects\obj\Debug\netcoreapp3.1\Week2ListOfObjects.dll
+C:\Users\CFlynn3\source\repos\Week2ListOfObjects\Week2ListOfObjects\obj\Debug\netcoreapp3.1\Week2ListOfObjects.pdb
+C:\Users\CFlynn3\source\repos\Week2ListOfObjects\Week2ListOfObjects\obj\Debug\netcoreapp3.1\Week2ListOfObjects.genruntimeconfig.cache
